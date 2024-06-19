@@ -1,5 +1,6 @@
-Welcome to the Credit Risk Modelling Repository! This repository contains a collection of models and tools designed for assessing and managing credit risk. 
-These models are essential for financial institutions to evaluate the risk associated with lending to borrowers and to maintain the health of their loan portfolios.
+Welcome to the Credit Risk Modelling Repository!💯
+This repository contains a collection of models and tools designed for assessing and managing credit risk. 💰❌
+These models are essential for financial institutions to evaluate the risk associated with lending to borrowers and to maintain the health of their loan portfolios.🏦
 
 What's in the bucket?
 Multiple Models: Includes logistic regression, decision trees, random forests, gradient boosting.
