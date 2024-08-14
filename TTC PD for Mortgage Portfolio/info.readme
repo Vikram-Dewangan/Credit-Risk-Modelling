@@ -1,1 +1,8 @@
+The model was developed using US Mortgage data from Fannie Mae, focusing on creating a Through-the-Cycle (TTC) Probability of Default (PD) model in line with Basel IRB requirements. The dataset comprised panel data for 50,000 IDs, with the objective of converting these observations into a cross-sectional model base that could be used for further model development.
 
+Key steps in the process included:
+
+Designing the model base for annual performance and snapshots, and transforming the panel data into cross-sectional data.
+Employing statistical methods such as Chi-Square tests, Paired t-tests, and Weight of Evidence (WoE) for feature selection.
+Developing models using a range of algorithms, including Logistic Regression, Decision Tree, Random Forest, AdaBoost, XGBoost, Naive Bayes, and K-Nearest Neighbors (KNN), achieving a maximum accuracy of 76% with the Random Forest algorithm.
+Validating the models using metrics such as Confusion Matrix, ROC-AUC, and Gini coefficient, and testing various assumptions as part of the validation process.
